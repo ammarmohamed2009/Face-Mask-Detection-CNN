@@ -3,9 +3,9 @@
 This project is a Deep Learning solution to detect whether a person is wearing a face mask or not in real-time. It uses a Convolutional Neural Network (CNN) built with TensorFlow/Keras.
 - <img width="936" height="328" alt="image" src="https://github.com/user-attachments/assets/a0a42cb7-cf7f-4a55-bb19-6bd707320f42" />
 ## 📊 Project Performance
-- **Training Accuracy:** 99.73%
-- **Validation Accuracy:** 98.29%
-- **Test Accuracy:** 99.09%
+- **Training Accuracy:** 99.51%
+- **Validation Accuracy:** 98.89%
+- **Test Accuracy:** 99.60%
 
 ## 🛠️ Dataset & Methodology
 The dataset was sourced from Kaggle. I implemented a custom data engineering pipeline:
